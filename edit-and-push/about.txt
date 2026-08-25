@@ -1,6 +1,6 @@
-Name: 
+Name:Ayoub Khalifa
 Course: Intro to Terminal
 Year: 2026
 
-Tell us a bit about yourself:
+Tell us a bit about yourself: am 19 years old
 
